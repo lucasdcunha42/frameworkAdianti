@@ -54,6 +54,31 @@
                 <icon>fa:circle fa-fw</icon>
                 <action>FormularioManual</action>
             </menuitem>
+
+            <menuitem label='Fomulário Bootstrap'>
+                <icon>fa:circle fa-fw</icon>
+                <action>FormularioBootstrap</action>
+            </menuitem>
+
+            <menuitem label='Fomulário Bootstrap Colunas'>
+                <icon>fa:circle fa-fw</icon>
+                <action>FormularioColunas</action>
+            </menuitem>
+
+            <menuitem label='Fomulário Bootstrap Vertical'>
+                <icon>fa:circle fa-fw</icon>
+                <action>FormularioVertical</action>
+            </menuitem>
+
+            <menuitem label='Fomulário Bootstrap Estatico'>
+                <icon>fa:circle fa-fw</icon>
+                <action>FormularioEstatico</action>
+            </menuitem>
+
+            <menuitem label='Fomulário Bootstrap FieldList'>
+                <icon>fa:circle fa-fw</icon>
+                <action>BootstrapFieldList</action>
+            </menuitem>
         </menu>
     </menuitem>
 </menu>
