@@ -79,6 +79,17 @@
                 <icon>fa:circle fa-fw</icon>
                 <action>BootstrapFieldList</action>
             </menuitem>
+
+            <menuitem label='Fomulário Bootstrap CheckList'>
+                <icon>fa:circle fa-fw</icon>
+                <action>FormularioCheckList</action>
+            </menuitem>
+
+            <menuitem label='Fomulário Mascaras'>
+                <icon>fa:circle fa-fw</icon>
+                <action>Formulario Mascaras</action>
+            </menuitem>
+
         </menu>
     </menuitem>
 </menu>
