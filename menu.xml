@@ -47,6 +47,7 @@
             </menuitem>
         </menu>
     </menuitem>
+
     <menuitem label='Formulários'>
         <icon>fa:list-alt fa-fw</icon>
         <menu>
@@ -87,9 +88,28 @@
 
             <menuitem label='Fomulário Mascaras'>
                 <icon>fa:circle fa-fw</icon>
-                <action>Formulario Mascaras</action>
+                <action>FormularioMascaras</action>
+            </menuitem>
+        </menu>
+    </menuitem>
+
+    <menuitem label='Cadastros'>
+        <icon>fa:list-alt fa-fw</icon>
+        <menu>    
+            <menuitem label='Form Cidade'>
+                <icon>fa:circle fa-fw</icon>
+                <action>CidadeForm</action>
             </menuitem>
 
+            <menuitem label='Form Trait Cidade'>
+                <icon>fa:circle fa-fw</icon>
+                <action>CidadeTraitForm</action>
+            </menuitem>
+
+            <menuitem label='Cidade List'>
+                <icon>fa:circle fa-fw</icon>
+                <action>CidadeList</action>
+            </menuitem>
         </menu>
     </menuitem>
 </menu>
